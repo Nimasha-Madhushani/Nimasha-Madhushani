@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimasha Madhushani</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
-<div><img align="left" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<div>
+  <img float="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
   <p align="left"> <a href="https://twitter.com/nimashamadhush2" target="blank"><img src="https://img.shields.io/twitter/follow/nimashamadhush2?logo=twitter&style=for-the-badge" alt="nimashamadhush2" /></a> </p>
 
 </div>
