@@ -100,7 +100,7 @@
 
 
 
-### Version Control  
+### VersionControl  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
 </div>
