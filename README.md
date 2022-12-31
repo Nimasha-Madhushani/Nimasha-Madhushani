@@ -107,10 +107,9 @@
 </div>
 
 </td>
-</tr></table> 
-   <table><tr>
+
 <td >
-### Other  
+### Other   
 <div align="center">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="75" /></a>  
